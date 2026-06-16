@@ -84,11 +84,11 @@
 <g class="np6"><circle cx="568" cy="200" r="5" fill="#082f49" stroke="#38bdf8" stroke-width="1.2"/></g>
 <g class="np4"><circle cx="568" cy="290" r="5" fill="#082f49" stroke="#38bdf8" stroke-width="1.2"/></g>
 <line x1="40" y1="325" x2="640" y2="325" stroke="#0e7490" stroke-width=".4" opacity=".3"/>
-<polyline class="ecg" points="40,325 130,325 155,325 165,295 175,355 185,280 195,355 205,325 295,325 320,325 330,310 340,325 440,325 465,325 475,295 485,355 495,280 505,355 515,325 615,325 640,325" fill="none" stroke="#67e8f9" stroke-width="1.5" stroke-dasharray="900" stroke-dashoffset="900" opacity="0"/>
-<polyline class="ecg2" points="40,325 130,325 155,325 165,295 175,355 185,280 195,355 205,325 295,325 320,325 330,310 340,325 440,325 465,325 475,295 485,355 495,280 505,355 515,325 615,325 640,325" fill="none" stroke="#06b6d4" stroke-width="1.2" stroke-dasharray="900" stroke-dashoffset="900" opacity="0"/>
-<text class="t1" x="100" y="348" text-anchor="middle" font-size="9" fill="#0e7490" font-family="monospace" letter-spacing="1">AI</text>
-<text class="t2" x="232" y="348" text-anchor="middle" font-size="9" fill="#0e7490" font-family="monospace" letter-spacing="1">e-Health</text>
-<text class="t3" x="340" y="348" text-anchor="middle" font-size="9" fill="#06b6d4" font-family="monospace" letter-spacing="1">Data</text>
-<text class="t4" x="448" y="348" text-anchor="middle" font-size="9" fill="#0e7490" font-family="monospace" letter-spacing="1">ML</text>
-<text class="t1" x="568" y="348" text-anchor="middle" font-size="9" fill="#0e7490" font-family="monospace" letter-spacing="1">Engineering</text>
+<polyline class="ecg" points="40,325 130,325 155,325 165,295 175,355 185,280 195,355 205,325 295,325 320,325 330,310 340,325 440,325 465,325 475,295 485,355 495,280 505,355 515,325 615,325 640,325" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline class="ecg2" points="40,325 130,325 155,325 165,295 175,355 185,280 195,355 205,325 295,325 320,325 330,310 340,325 440,325 465,325 475,295 485,355 495,280 505,355 515,325 615,325 640,325" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t1" x="100" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">AI</text>
+<text class="t2" x="232" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">e-Health</text>
+<text class="t3" x="340" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#06b6d4" font-family="monospace" letter-spacing="1">Data</text>
+<text class="t4" x="448" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">ML</text>
+<text class="t1" x="568" y="348" text-anchor="middle" font-size="16" font-weight="bold" fill="#0e7490" font-family="monospace" letter-spacing="1">Engineering</text>
 </svg>
