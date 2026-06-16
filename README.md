@@ -81,7 +81,7 @@ Beyond research, I support undergraduate software engineering education, build f
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AichaMbongo&theme=onedark&no-frame=true&column=8&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AichaMbongo&theme=darkhub&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
