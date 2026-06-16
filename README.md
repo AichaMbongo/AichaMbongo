@@ -78,6 +78,14 @@ Beyond research, I support undergraduate software engineering education, build f
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AichaMbongo&theme=onedark&no-frame=true&column=8&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
