@@ -1,136 +1,78 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=200&section=header&text=Aicha%20Mbongo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=e-Health%20Researcher%20%7C%20ML%20Engineer%20%7C%20Graduate%20Assistant&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=67E8F9&center=true&vCenter=true&width=750&lines=Researching+Diabetic+Retinopathy+%2B+Explainable+AI+%F0%9F%94%AC;Building+e-Health+Solutions+with+Machine+Learning+%F0%9F%8F%A5;Graduate+Assistant+%40+Strathmore+University%2C+Nairobi;Teaching+SDLC+%26+Software+Engineering;React+%7C+Next.js+%7C+Django+%7C+Python+%7C+Supabase" alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=210&section=header&text=Aicha%20Mbongo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=e-Health%20Researcher%20%C2%B7%20ML%20Engineer%20%C2%B7%20Graduate%20Assistant&descAlignY=58&descColor=67e8f9&animation=fadeIn)
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-AichaMbongo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.strathmore.edu">
-    <img src="https://img.shields.io/badge/Strathmore%20University-Nairobi%2C%20Kenya-2c5364?style=for-the-badge&logo=academia&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AichaMbongo&color=2c5364&style=for-the-badge&label=Profile+Views" />
-</p>
+### Building trustworthy AI for better healthcare
 
----
+MSc Information Technology candidate and Graduate Assistant at Strathmore University, Nairobi.
 
-## 👩🏾‍💻 Who Am I
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aicha_Mbongo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aicha-myriam-mbongo-zindamoyen)
+[![Email](https://img.shields.io/badge/Email-azindamoyen%40strathmore.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azindamoyen@strathmore.edu)
+[![Profile views](https://komarev.com/ghpvc/?username=AichaMbongo&color=2c5364&style=flat-square&label=Profile+views)](https://github.com/AichaMbongo)
 
-I'm **Aicha Mbongo**, a **Graduate Assistant & MSc IT candidate** at Strathmore University, Nairobi — where I sit at the crossroads of **healthcare, machine learning, and explainability**.
+</div>
 
-My research applies **Explainable AI (XAI)** to the automated detection of **Diabetic Retinopathy** — a leading cause of preventable blindness — making AI decisions interpretable enough for clinicians to trust and act on.
+## About me
 
-Beyond research, I support undergraduate software engineering education, build full-stack web applications, automate academic workflows with Google Workspace, and teach the **full SDLC lifecycle**.
+I work at the intersection of **healthcare, machine learning, and explainable AI**. My MSc research explores automated diabetic-retinopathy grading from retinal fundus images—and, crucially, how to make those predictions understandable and useful to clinicians.
 
-> *"The most powerful thing you can do with data is use it to save a life."*
+Alongside my research, I support undergraduate software-engineering education, build full-stack applications, and automate academic workflows.
 
----
+- 🔬 Researching deep learning and XAI for diabetic-retinopathy screening
+- 🧑🏾‍🏫 Teaching software engineering and the software development lifecycle
+- 🏥 Interested in practical, responsible AI for resource-constrained health systems
+- 🌍 Based in Nairobi, Kenya
 
-## 🔬 What I'm Currently Building
+## Current research
 
-**Diabetic Retinopathy Detection with Explainable AI** *(MSc Thesis)*
+### Explainable diabetic-retinopathy detection
 
-| | |
-|---|---|
-| 👁️ **Problem** | DR causes preventable blindness — yet specialist access is scarce in low-resource settings |
-| 🤖 **Approach** | Deep learning CNNs for automated DR grading from retinal fundus images |
-| 🔍 **Explainability** | XAI techniques — Grad-CAM, LIME, SHAP — to make predictions interpretable for clinicians |
-| 🏥 **Goal** | Trustworthy, deployable e-health tools for under-resourced healthcare settings |
+| Focus | What I am working on |
+|:--|:--|
+| **Clinical problem** | Earlier screening for a leading cause of preventable blindness |
+| **Machine learning** | CNN-based grading of retinal fundus images |
+| **Explainability** | Grad-CAM, LIME, and SHAP for interpretable predictions |
+| **Outcome** | A trustworthy e-health tool designed for under-resourced settings |
 
+## Tools I work with
 
----
+**AI & data**
 
-## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 🤖 AI & Machine Learning
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+**Applications & platforms**
 
-### ⚙️ Backend & Database
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
 
-### 🌐 Frontend & Full-Stack
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+## GitHub at a glance
 
-### 🔧 Tools & Automation
-<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+  <img height="185" src="./profile/stats.svg" alt="Aicha's GitHub statistics" />
+  <img height="185" src="./profile/top-languages.svg" alt="Aicha's most-used repository languages" />
+</div>
 
----
+> These cards are generated daily inside this repository, avoiding the shared public stats service and its rate limits. Language percentages reflect repository code, not proficiency.
 
-## 📊 GitHub Stats
+## Let’s collaborate
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AichaMbongo&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
-</p>
+I’m happy to connect about **e-health**, **explainable AI**, **research collaboration**, **software-engineering education**, and **technology for social impact in Africa**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AichaMbongo&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AichaMbongo&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AichaMbongo&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+[Connect on LinkedIn](https://www.linkedin.com/in/aicha-myriam-mbongo-zindamoyen) · [Send me an email](mailto:azindamoyen@strathmore.edu)
 
----
+<sub>Bridging AI and healthcare · Building solutions that matter · Teaching the next generation of engineers</sub>
 
-## 🐍 Contribution Snake
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AichaMbongo/AichaMbongo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AichaMbongo/AichaMbongo/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AichaMbongo/AichaMbongo/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-
----
-
-## 🎓 Academic & Teaching
-
-- 🧑🏾‍🏫 **Graduate Assistant** — Strathmore University, supporting undergraduate SE coursework & student supervision
-- 🏫 **MSc Information Technology** — Strathmore University, Nairobi *(in progress)*
-- 🔬 Research on **Diabetic Retinopathy** detection with Explainable AI
-- 📚 Teaching **Software Engineering** principles and the full **SDLC lifecycle**
-- 🎯 Coordinating academic capstone programmes and industry mentorship
-- ⚙️ Automating institutional workflows with **Google Workspace & Apps Script**
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to conversations about **e-health**, **AI for social good**, **research collaboration**, or tech in Africa 🌍
-
-<p align="center">
-  <a href="www.linkedin.com/in/aicha-myriam-mbongo-zindamoyen">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="azindamoyen@strathmore.edu">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-**Open to:**
-
-![Research Collaboration](https://img.shields.io/badge/🔬%20Research%20Collaboration-2c5364?style=flat-square)
-![GA Supervision](https://img.shields.io/badge/🧑🏾‍🏫%20GA%20Supervision-203a43?style=flat-square)
-![eHealth Consulting](https://img.shields.io/badge/🏥%20e--Health%20Consulting-0f0c29?style=flat-square)
-![African Tech Community](https://img.shields.io/badge/🌍%20African%20Tech%20Community-1a3a4a?style=flat-square)
-
-<p align="center">
-  <img src="./banner_animation.svg.svg" width="500" alt="Retinal AI scan animation — Diabetic Retinopathy detection with Explainable AI" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=120&section=footer" />
-</p>
-
-<p align="center"><i>Bridging AI and healthcare · Building solutions that matter · Teaching the next generation of engineers 🌍</i></p>
-
----
-
+</div>
